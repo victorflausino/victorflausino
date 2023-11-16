@@ -10,6 +10,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://estuary.dev/static/d02a8d0785a4d9eeddead9dcc720f436/ce562/569dae_Azure_Sql_Server_Logo_Transparent_1_13b0b548d9.png">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://logosmarcas.net/wp-content/uploads/2022/02/Power-BI-Emblema.png">
 
 </div>
   
